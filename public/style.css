@@ -1,0 +1,26 @@
+.body {
+  background-color: rgb(255, 185, 79);
+}
+.comment-count {
+  float: right;
+}
+
+.comments {
+  display: none;
+}
+
+.show {
+  display: unset;
+}
+
+.hide {
+  display: none;
+}
+
+.date {
+  float: right;
+}
+
+.delete-comment {
+  position: absolute;
+}
